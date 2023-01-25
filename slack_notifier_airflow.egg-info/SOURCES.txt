@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+slack_notifier_airflow/__init__.py
+slack_notifier_airflow/slack_notifier.py
+slack_notifier_airflow.egg-info/PKG-INFO
+slack_notifier_airflow.egg-info/SOURCES.txt
+slack_notifier_airflow.egg-info/dependency_links.txt
+slack_notifier_airflow.egg-info/top_level.txt
